@@ -1,2 +1,2 @@
 # Javascript-course-2024
-Private repo for projects
+Private repo for JS projects
