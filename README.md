@@ -1,2 +1,1 @@
-# Javascript-course-2024
-Private repo for JS projects
+# Javascript-course-2024 repo for JS Fundamentals
